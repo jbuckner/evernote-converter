@@ -10,4 +10,6 @@ edit ```convert.sh``` and set ```files```, ```output_format```, and ```output_ex
 
 ####Run:
 
-```./convert.sh```
+```
+./convert.sh
+```
